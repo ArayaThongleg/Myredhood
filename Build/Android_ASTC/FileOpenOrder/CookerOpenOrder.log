@@ -17,12 +17,12 @@
 "../../../Engine/Content/BufferVisualization/CustomDepth.uasset" 16
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 17
 "../../../Engine/Content/BufferVisualization/CustomDepthWorldUnits.uasset" 18
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 19
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 20
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 21
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 22
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 23
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 24
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 19
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 20
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 21
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 22
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 23
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 24
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 25
 "../../../Engine/Content/BufferVisualization/CustomStencil.uasset" 26
 "../../../Engine/Content/BufferVisualization/FinalImage.uasset" 27
@@ -53,17 +53,17 @@
 "../../../Engine/Content/EditorMaterials/Cross.uasset" 52
 "../../../Engine/Content/EditorMaterials/Cross_Mat.uasset" 53
 "../../../Engine/Content/EditorResources/T_EditorHelp.uasset" 54
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 55
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 56
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 57
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 58
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 59
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 60
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 61
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 62
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 63
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 64
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 65
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 55
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 56
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 57
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 58
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 59
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 60
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 61
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 62
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 63
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 64
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 65
 "../../../Engine/Content/EditorMaterials/HelpActorMaterial.uasset" 66
 "../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 67
 "../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 68
@@ -326,21 +326,21 @@
 "../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 325
 "../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 326
 "../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 327
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 328
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 329
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 330
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 331
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 332
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 333
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/ThirdPersonBP/ThirdPersonOverview.uasset" 334
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/ThirdPerson/Meshes/RampMaterial.uasset" 335
-"../../../Engine/Content/BasicShapes/Cube.uasset" 336
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/BP_ITEM/gogowa.uasset" 337
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 338
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/UI/UI_crabble.uasset" 339
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Quiz/Struct_Question.uasset" 340
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Quiz/BPI_Quiz.uasset" 341
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Quiz/Quiz_Widget.uasset" 342
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/ThirdPersonBP/ThirdPersonOverview.uasset" 328
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 329
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/ThirdPerson/Meshes/RampMaterial.uasset" 330
+"../../../Engine/Content/BasicShapes/Cube.uasset" 331
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/BP_ITEM/gogowa.uasset" 332
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/UI/UI_crabble.uasset" 333
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 334
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 335
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Animations/ThirdPersonRun.uasset" 336
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 337
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 338
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 339
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 340
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 341
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 342
 "../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 343
 "../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 344
 "../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 345
@@ -359,39 +359,39 @@
 "../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 358
 "../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Character/Materials/M_Male_Body.uasset" 359
 "../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 360
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 361
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 362
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 363
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Animations/ThirdPersonRun.uasset" 364
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 365
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 366
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 367
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 368
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 369
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 370
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 371
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/UI/UIControl/UI_Control.uasset" 372
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 373
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/UI/pop.uasset" 374
-"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/UI/UI_warp.uasset" 375
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 376
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 377
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 378
-"../../Plugins/FX/Niagara/Content/Icons/S_ParticleSystem.uasset" 379
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 380
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 381
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 382
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 383
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 384
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 385
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 386
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 387
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 388
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 389
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 390
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 391
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 392
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 393
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 361
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 362
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Quiz/Struct_Question.uasset" 363
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Quiz/BPI_Quiz.uasset" 364
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/Quiz/Quiz_Widget.uasset" 365
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/UI/UIControl/UI_Control.uasset" 366
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 367
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/UI/pop.uasset" 368
+"../../../../../../Users/Oil/Documents/Unreal Projects/Myredhood/Content/UI/UI_warp.uasset" 369
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 370
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 371
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 372
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 373
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 374
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 375
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 376
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 377
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 378
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 379
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 380
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 381
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 382
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 383
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 384
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 385
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 386
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 387
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 388
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 389
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 390
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 391
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 392
+"../../Plugins/FX/Niagara/Content/Icons/S_ParticleSystem.uasset" 393
 "../../../Engine/Content/BasicShapes/Cylinder.uasset" 394
 "../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 395
 "../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 396
