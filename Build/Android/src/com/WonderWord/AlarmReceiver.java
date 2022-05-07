@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.Myredhood;
+package com.WonderWord;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

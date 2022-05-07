@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import com.YourCompany.Myredhood.OBBDownloaderService;
-import com.YourCompany.Myredhood.DownloaderActivity;
+import com.WonderWord.OBBDownloaderService;
+import com.WonderWord.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.YourCompany.Myredhood.OBBData;
+import com.WonderWord.OBBData;
 
 
 public class DownloadShim
